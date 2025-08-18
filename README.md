@@ -50,6 +50,7 @@ The notebooks in this repo cover the following topics:
     jupyter notebook
 4. Open the desired notebook and start learning!
 
+<br>  <br>
 
 🎯 Purpose
 
@@ -57,6 +58,9 @@ To document my Python learning journey.
 To practice coding concepts through Jupyter notebooks.
 To build a strong foundation in Python programming.
 
+<br><br>
+
+---
 
 👨‍💻 Author
 
