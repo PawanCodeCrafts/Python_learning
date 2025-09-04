@@ -1,0 +1,5 @@
+this file is used to learn filehandling 
+Hello everyone
+hi everyone
+this is third line
+and more lines
